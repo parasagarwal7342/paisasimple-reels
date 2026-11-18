@@ -1,0 +1,18 @@
+PaisaSimple Reel 17: Choosing a card beyond the welcome gift: fee maths (Rs1,000 fee only worth it if card returns >Rs1,000/yr), Amex/Diners accepted at fewer shops so keep a backup; held back: spend-to-card-type table + the one document (KFS) with all fees/interest, in the 5-step guide
+Hook style: Relatable mistake
+Voice: ElevenLabs eleven_v3, Liam (TX3LPaxmHKxFdv7VOQHJ), language hi, atempo 1.08, duration 27.13 s
+Site page (payoff held back for the site): https://paisasimple.com/en/insights/credit-cards/choose-right-credit-card
+
+[time]  spoken line (Roman)  ||  TTS text sent
+[ 0.12s] Card sirf welcome gift dekh ke le rahe ho? Ruko yaar.
+          || [excited] Card सिर्फ़ welcome gift देख के ले रहे हो? रुको यार.
+[ 3.18s] Dekho, ₹1,000 annual fee tabhi worth hai, jab card saal mein ₹1,000 se zyada wapas de.
+          || देखो, एक हज़ार की annual fee तभी worth है, जब card साल में एक हज़ार से ज़्यादा वापस दे.
+[ 9.05s] Aur Amex ya Diners har dukaan pe nahi chalte. Ek backup card rakho.
+          || और Amex या Diners हर दुकान पे नहीं चलते. एक backup card रखो.
+[13.47s] Par asli game? Tumhare kharche se kaunsa card type match karta hai.
+          || पर असली game? तुम्हारे खर्चे से कौन सा card type match करता है.
+[16.76s] Aur ek document, jo bank ka saara fine print ek page pe dikhata hai. Naam? Website pe.
+          || और एक document, जो bank का सारा fine print एक page पे दिखाता है. नाम? Website पे.
+[22.63s] Poori 5-step guide bio link mein. PaisaSimple ko follow karo!
+          || पूरी five step guide, bio link में. PaisaSimple को follow करो!
