@@ -1,6 +1,11 @@
-# PaisaSimple Stories S01–S16 (1080×1920)
+# PaisaSimple Stories (1080×1920)
 
-Link sticker: place it in the empty band y 1150–1450 (centre ≈ y 1300). Post time: same day as the reel.
+Link sticker: place it in the empty band y 1150–1450 (centre ≈ y 1300).
+Renderer: `engine/story_engine.py` (official logo badge only). Reel specs: `engine/story_specs.py`. Post specs: `engine/story_specs_posts.py`.
+
+## Reel Stories S01–S16 — 7:05 PM IST
+
+Each goes out 5 minutes after that day's reel (7:00 PM) and teases the reel's site page.
 
 | Story | Date | File | Teases reel | Link sticker URL |
 |---|---|---|---|---|
@@ -20,3 +25,25 @@ Link sticker: place it in the empty band y 1150–1450 (centre ≈ y 1300). Post
 | S14 | 2026-12-01 | S14-credit-card-interest.png | 14-credit-card-interest-42-percent | https://paisasimple.com/en/insights/credit-cards/mastering-credit-card-interest-rates-india-guide |
 | S15 | 2026-12-02 | S15-cashback-card-traps.png | 15-cashback-card-traps | https://paisasimple.com/en/insights/credit-cards/top-cashback-credit-cards-india-2025 |
 | S16 | 2026-12-03 | S16-card-benefits-changed-2026.png | 16-card-benefits-changed-2026 | https://paisasimple.com/en/insights/credit-cards/top-credit-cards-india-unlock-exclusive-benefits-rewards |
+
+## Post Stories SP02–SP16 — 1:05 PM IST
+
+Each goes out 5 minutes after that day's carousel (1:00 PM), teases the carousel topic, and links to the carousel's site page. Visually distinct from reel Stories (carousel peek-slides + pagination dots). No SP01: 18 Nov carousel had already been set to go live.
+
+| Story | Date | File | Teases carousel | Link sticker URL |
+|---|---|---|---|---|
+| SP02 | 2026-11-19 | SP02-how-card-companies-make-money.png | P02-how-card-companies-make-money | https://paisasimple.com/en/insights/credit-cards/how-credit-card-companies-make-money |
+| SP03 | 2026-11-20 | SP03-card-fraud-safety.png | P03-card-fraud-safety | https://paisasimple.com/en/insights/credit-cards/protecting-yourself-from-credit-card-fraud |
+| SP04 | 2026-11-21 | SP04-lounge-access-myths.png | P04-lounge-access-myths | https://paisasimple.com/en/insights/credit-cards/top-credit-cards-india-airport-lounge-access |
+| SP05 | 2026-11-22 | SP05-rupay-credit-card-upi.png | P05-rupay-credit-card-upi | https://paisasimple.com/en/insights/credit-cards/rupay-credit-cards |
+| SP06 | 2026-11-23 | SP06-billing-cycle-interest-free-days.png | P06-billing-cycle-interest-free-days | https://paisasimple.com/en/insights/credit-cards/mastering-credit-card-billing-cycle-guide |
+| SP07 | 2026-11-24 | SP07-secured-vs-unsecured-card.png | P07-secured-vs-unsecured-card | https://paisasimple.com/en/insights/credit-cards/secured-unsecured-credit-cards |
+| SP08 | 2026-11-25 | SP08-student-first-credit-card.png | P08-student-first-credit-card | https://paisasimple.com/en/insights/credit-cards/student-credit-cards |
+| SP09 | 2026-11-26 | SP09-choose-right-credit-card.png | P09-choose-right-credit-card | https://paisasimple.com/en/insights/credit-cards/choose-right-credit-card |
+| SP10 | 2026-11-27 | SP10-fuel-credit-cards.png | P10-fuel-credit-cards | https://paisasimple.com/en/credit-cards |
+| SP11 | 2026-11-28 | SP11-dining-credit-cards.png | P11-dining-credit-cards | https://paisasimple.com/en/insights/credit-cards/top-dining-credit-cards-in-india-for-food-lovers |
+| SP12 | 2026-11-29 | SP12-nri-credit-cards.png | P12-nri-credit-cards | https://paisasimple.com/en/insights/credit-cards/ultimate-guide-nri-credit-cards-no-foreign-fees-global-benefits |
+| SP13 | 2026-11-30 | SP13-prepaid-vs-credit-card.png | P13-prepaid-vs-credit-card | https://paisasimple.com/en/insights/credit-cards/exploring-benefits-types-prepaid-cards |
+| SP14 | 2026-12-01 | SP14-business-credit-cards.png | P14-business-credit-cards | https://paisasimple.com/en/insights/credit-cards/maximize-financial-flexibility-with-business-credit-cards |
+| SP15 | 2026-12-02 | SP15-movie-entertainment-cards.png | P15-movie-entertainment-cards | https://paisasimple.com/en/insights/credit-cards/maximize-fun-with-entertainment-credit-cards-india |
+| SP16 | 2026-12-03 | SP16-credit-card-cash-withdrawal.png | P16-credit-card-cash-withdrawal | https://paisasimple.com/en/insights/credit-cards/mastering-credit-card-interest-rates-india-guide |
