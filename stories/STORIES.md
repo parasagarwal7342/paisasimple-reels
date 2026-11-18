@@ -26,12 +26,13 @@ Each goes out 5 minutes after that day's reel (7:00 PM) and teases the reel's si
 | S15 | 2026-12-02 | S15-cashback-card-traps.png | 15-cashback-card-traps | https://paisasimple.com/en/insights/credit-cards/top-cashback-credit-cards-india-2025 |
 | S16 | 2026-12-03 | S16-card-benefits-changed-2026.png | 16-card-benefits-changed-2026 | https://paisasimple.com/en/insights/credit-cards/top-credit-cards-india-unlock-exclusive-benefits-rewards |
 
-## Post Stories SP02–SP16 — 1:05 PM IST
+## Post Stories SP01–SP16 — 1:05 PM IST
 
-Each goes out 5 minutes after that day's carousel (1:00 PM), teases the carousel topic, and links to the carousel's site page. Visually distinct from reel Stories (carousel peek-slides + pagination dots). No SP01: 18 Nov carousel had already been set to go live.
+Each goes out 5 minutes after that day's carousel (1:00 PM), teases the carousel topic, and links to the carousel's site page. Visually distinct from reel Stories (carousel peek-slides + pagination dots). SP01 was made after the 18 Nov carousel went live, for a same-day Story.
 
 | Story | Date | File | Teases carousel | Link sticker URL |
 |---|---|---|---|---|
+| SP01 | 2026-11-18 | SP01-reward-points-traps.png | P01-reward-points-traps | https://paisasimple.com/en/insights/credit-cards/using-credit-card-reward-points |
 | SP02 | 2026-11-19 | SP02-how-card-companies-make-money.png | P02-how-card-companies-make-money | https://paisasimple.com/en/insights/credit-cards/how-credit-card-companies-make-money |
 | SP03 | 2026-11-20 | SP03-card-fraud-safety.png | P03-card-fraud-safety | https://paisasimple.com/en/insights/credit-cards/protecting-yourself-from-credit-card-fraud |
 | SP04 | 2026-11-21 | SP04-lounge-access-myths.png | P04-lounge-access-myths | https://paisasimple.com/en/insights/credit-cards/top-credit-cards-india-airport-lounge-access |
