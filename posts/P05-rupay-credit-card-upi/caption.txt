@@ -1,23 +1,16 @@
-Chai wale ke QR pe credit card se pay? Haan, ho sakta hai, agar card RuPay hai ☕💳👇
+Chai wale ka QR scan karo, aur pay karo credit card se ☕💳 Haan, yeh ho sakta hai 👇
 
-RuPay credit card ko UPI se link karna, simple steps:
+Do cheezein pehle samjho:
+1️⃣ Sirf RuPay credit card UPI pe link hota hai. Visa/Mastercard abhi nahi
+2️⃣ Dukaan ka QR aur online checkout chalega, par dost ko transfer (P2P) nahi
 
-1️⃣ Koi bhi UPI app kholo (BHIM, GPay, PhonePe, Paytm…)
-2️⃣ "Add RuPay credit card" chuno, apna bank select karo
-3️⃣ Card ke last 6 digits + expiry daalo, OTP verify karo
-4️⃣ Naya UPI PIN set karo, savings account wale se alag rakho
+Ab asli sawaal: RuPay lo ya Visa/Mastercard? 🤔 Jawab tumhare kharche pe depend karta hai, aur zyaadatar log ek smart combo rakhte hain 👀 Woh combo, 4-step linking aur popular RuPay cards ki list website pe.
 
-⚠️ Dhyan rakho:
-• Sirf merchant payments chalte hain (dukaan ka QR, online shopping). Dost ko P2P transfer, cash withdrawal, card-to-card nahi chalta
-• Abhi UPI pe sirf RuPay credit cards link hote hain, Visa/Mastercard nahi
-• Rewards UPI spends pe milenge ya nahi, bank aur card pe depend karta hai
-• Aasaan payment = aasaan overspending. Bill poora bharna mat bhoolna
-
-👉 RuPay vs Visa/Mastercard + popular RuPay cards: paisasimple.com → Insights (bio mein 'Paisa Simple Insights' link pe tap karo)
+👉 Poori RuPay + UPI guide: paisasimple.com → Insights (bio mein 'Paisa Simple Insights' link pe tap karo)
 Follow karo @PaisaSimple
 
-📌 Save karo, aur us dost ko share karo jo har jagah UPI hi karta hai!
+📌 Save karo, aur us dost ko bhejo jo har jagah UPI hi karta hai!
 
-(Sirf educational info hai, financial advice nahi. Steps app ke hisaab se thode alag ho sakte hain.)
+(Sirf educational info hai, financial advice nahi. Rewards aur rules bank aur card pe depend karte hain, apne card ke T&Cs check karo.)
 
-#RuPayCreditCard #UPI #CreditCardOnUPI #CreditCard #CreditCardTips #DigitalPayments #PersonalFinanceIndia #MoneyTips #FinancialLiteracy #PaisaSimple
+#RuPayCreditCard #CreditCardOnUPI #UPI #RuPay #CreditCard #CreditCardTips #PersonalFinanceIndia #MoneyTips #FinancialLiteracy #PaisaSimple
