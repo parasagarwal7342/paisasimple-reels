@@ -26,6 +26,14 @@ Each goes out 5 minutes after that day's reel (7:00 PM) and teases the reel's si
 | S15 | 2026-12-02 | S15-cashback-card-traps.png | 15-cashback-card-traps | https://paisasimple.com/en/insights/credit-cards/top-cashback-credit-cards-india-2025 |
 | S16 | 2026-12-03 | S16-card-benefits-changed-2026.png | 16-card-benefits-changed-2026 | https://paisasimple.com/en/insights/credit-cards/top-credit-cards-india-unlock-exclusive-benefits-rewards |
 
+## Extra stock reel Story (unscheduled)
+
+| Story | Date | File | Teases reel | Link sticker URL |
+|---|---|---|---|---|
+| S17 | extra (ready, unscheduled) | S17-choose-right-credit-card.png | 17-choose-right-credit-card | https://paisasimple.com/en/insights/credit-cards/choose-right-credit-card |
+
+Spec: engine/story_specs_extra.py.
+
 ## Post Stories SP01–SP16 — 1:05 PM IST
 
 Each goes out 5 minutes after that day's carousel (1:00 PM), teases the carousel topic, and links to the carousel's site page. Visually distinct from reel Stories (stacked-card carousel motif). CTA is 'Link pe tap karo 👆 · Naya post profile pe' — no swipe wording (Instagram Stories have no swipe). SP01 was first published on 18 Nov, then deleted and replaced the same day by SP01-reward-points-traps-v2.png.
