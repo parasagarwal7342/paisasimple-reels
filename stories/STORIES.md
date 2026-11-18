@@ -1,6 +1,6 @@
 # PaisaSimple Stories (1080×1920)
 
-Link sticker: place it in the empty band y 1150–1450 (centre ≈ y 1300).
+Link sticker: place it in the empty band y 1150–1450 (centre ≈ y 1300). Do not say 'swipe' — Stories have no swipe action.
 Renderer: `engine/story_engine.py` (official logo badge only). Reel specs: `engine/story_specs.py`. Post specs: `engine/story_specs_posts.py`.
 
 ## Reel Stories S01–S16 — 7:05 PM IST
@@ -28,11 +28,11 @@ Each goes out 5 minutes after that day's reel (7:00 PM) and teases the reel's si
 
 ## Post Stories SP01–SP16 — 1:05 PM IST
 
-Each goes out 5 minutes after that day's carousel (1:00 PM), teases the carousel topic, and links to the carousel's site page. Visually distinct from reel Stories (carousel peek-slides + pagination dots). SP01 was made after the 18 Nov carousel went live, for a same-day Story.
+Each goes out 5 minutes after that day's carousel (1:00 PM), teases the carousel topic, and links to the carousel's site page. Visually distinct from reel Stories (stacked-card carousel motif). CTA is 'Link pe tap karo 👆 · Naya post profile pe' — no swipe wording (Instagram Stories have no swipe). SP01 was first published on 18 Nov, then deleted and replaced the same day by SP01-reward-points-traps-v2.png.
 
 | Story | Date | File | Teases carousel | Link sticker URL |
 |---|---|---|---|---|
-| SP01 | 2026-11-18 | SP01-reward-points-traps.png | P01-reward-points-traps | https://paisasimple.com/en/insights/credit-cards/using-credit-card-reward-points |
+| SP01 | 2026-11-18 | SP01-reward-points-traps-v2.png | P01-reward-points-traps | https://paisasimple.com/en/insights/credit-cards/using-credit-card-reward-points |
 | SP02 | 2026-11-19 | SP02-how-card-companies-make-money.png | P02-how-card-companies-make-money | https://paisasimple.com/en/insights/credit-cards/how-credit-card-companies-make-money |
 | SP03 | 2026-11-20 | SP03-card-fraud-safety.png | P03-card-fraud-safety | https://paisasimple.com/en/insights/credit-cards/protecting-yourself-from-credit-card-fraud |
 | SP04 | 2026-11-21 | SP04-lounge-access-myths.png | P04-lounge-access-myths | https://paisasimple.com/en/insights/credit-cards/top-credit-cards-india-airport-lounge-access |
